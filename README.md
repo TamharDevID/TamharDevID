@@ -5,13 +5,14 @@ Ini adalah repositori **code sumber** dari berbagai **tutorial** yang saya buat.
 ## 📚 Isi Repositori:
 
 - 🚀 **Contoh-contoh kode** dari tutorial yang lengkap dan terperinci
+- 🤖 **Kode sumber robotika** untuk pemrograman robot dan automasi
 - 🛠️ **Proyek mini** untuk latihan dan pengembangan kemampuan
-- 💡 **Tips dan trik** seputar pengembangan aplikasi dan pemrograman
+- 💡 **Tips dan trik** seputar pengembangan aplikasi, pemrograman, dan teknologi jaringan
 
 ---
 
 ### 🎯 Tujuan Repositori:
-Repositori ini bertujuan untuk membantu kamu dalam memahami berbagai konsep pemrograman dengan lebih mudah, serta memberi akses ke kode-kode praktis yang bisa langsung kamu coba.
+Repositori ini bertujuan untuk membantu kamu dalam memahami berbagai konsep **pemrograman**, **robotika**, dan **jaringan** dengan lebih mudah, serta memberi akses ke kode-kode praktis yang bisa langsung kamu coba.
 
 ---
 
